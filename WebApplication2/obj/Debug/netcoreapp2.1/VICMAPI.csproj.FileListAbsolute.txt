@@ -1,0 +1,14 @@
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\VICMAPI.deps.json
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\VICMAPI.runtimeconfig.json
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\VICMAPI.runtimeconfig.dev.json
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\VICMAPI.dll
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.csprojAssemblyReference.cache
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.csproj.CoreCompileInputs.cache
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.RazorAssemblyInfo.cache
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.RazorAssemblyInfo.cs
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.AssemblyInfoInputs.cache
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.AssemblyInfo.cs
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.RazorTargetAssemblyInfo.cache
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\VICMAPI.pdb
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.dll
+C:\Users\2000081258\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\VICMAPI.pdb
